@@ -16,3 +16,4 @@ Following is the list of confirmed program committee members in alphabetical ord
 - Maria-Esther Vidal
 - Simon Bin
 - Eva Hoerster
+- Marvin Hofer 
